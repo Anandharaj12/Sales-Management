@@ -1,0 +1,180 @@
+{
+  "users": [
+    {
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "123",
+      "id": "5f77"
+    },
+    {
+      "id": "c892",
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "mk"
+    },
+    {
+      "id": "c80d",
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "mk"
+    },
+    {
+      "id": "8780",
+      "username": "mk001",
+      "email": "mk@gm.com",
+      "password": "mk"
+    },
+    {
+      "id": "3515",
+      "username": "hkhj",
+      "email": "daboson387@fryshare.com",
+      "password": "hggh"
+    },
+    {
+      "id": "969c",
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "123"
+    },
+    {
+      "id": "42d8",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "9ad3",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "ee60",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "f45d",
+      "username": "",
+      "email": "",
+      "password": ""
+    },
+    {
+      "id": "9890",
+      "username": "mk",
+      "email": "mk@gm.com",
+      "password": "123"
+    },
+    {
+      "id": "c6ec",
+      "username": "kali",
+      "email": "kali23@gm.com",
+      "password": "123"
+    },
+    {
+      "id": "a21b",
+      "username": "kali",
+      "email": "kali@gmail.com",
+      "password": "12232"
+    },
+    {
+      "id": "58ee",
+      "username": "kali",
+      "email": "kali@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c125",
+      "username": "kali",
+      "email": "kali@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "8d69",
+      "username": "kali",
+      "email": "kali@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "497b",
+      "username": "as",
+      "email": "as@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "6841",
+      "username": "as",
+      "email": "as@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "810c",
+      "username": "as",
+      "email": "as@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "c957",
+      "username": "admin",
+      "email": "admin@psr.edu.in",
+      "password": "admin"
+    },
+    {
+      "id": "2d13",
+      "username": "kali",
+      "email": "kali@gmail.com",
+      "password": "kali"
+    },
+    {
+      "id": "68dd",
+      "username": "csk",
+      "email": "csk@gmail.com",
+      "password": "csk"
+    },
+    {
+      "id": "c38d",
+      "username": "dq",
+      "email": "dq@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "405a",
+      "username": "aaa",
+      "email": "dq@gmail.com",
+      "password": "aaa"
+    },
+    {
+      "id": "219c",
+      "username": "admin",
+      "email": "dq@gmail.com",
+      "password": "aaa"
+    }
+  ],
+  "Students": [
+    {
+      "id": "ball",
+      "name": "5",
+      "age": "1000",
+      "image": "https://m.media-amazon.com/images/I/81MFVJnWgML._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": " cricket bat",
+      "name": "2",
+      "age": "20000",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/3/295926114/BB/HC/ZT/127886843/1b-500x500.jpg"
+    },
+    {
+      "id": "batting glove",
+      "name": "3",
+      "age": "5000",
+      "image": "https://img1.pnghut.com/t/3/17/0/eaC40uSMF7/baseball-protective-gear-equipment-clothing-wicketkeeper-s-gloves-batting.jpg"
+    },
+    {
+      "id": "stumps",
+      "name": "3",
+      "age": "24000",
+      "image": "https://5.imimg.com/data5/SELLER/Default/2023/6/316554155/SB/IX/QB/190308696/27stumps1.jpg"
+    }
+  ]
+}
